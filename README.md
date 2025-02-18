@@ -1,10 +1,7 @@
-![Homepage](https://github.com/sandeep2351/book-world/assets/67575976/f1c41565-9ad9-47d5-86b3-60e95f4f9215)
 
 # Book World
 
 A full-featured book review and management application built with the MERN stack (`MongoDB`, `Express`, `React`, `Node.js`). Users can browse books, leave reviews with star ratings, and manage their favorites. Admins have extended capabilities for adding, editing, and deleting books, as well as managing user data and access.
-
-Live Link: https://book-world-beta.vercel.app/
 
 ## Features
 
@@ -85,7 +82,7 @@ If you don't have Cloudinary, you can replace `cloudStorage` with `diskStorage` 
 #### Clone the Repository
 
 ```shell
-git clone https://github.com/sandeep2351/book-world.git
+git clone https://github.com/sandeep2351/Book-Store.git
 cd book-world
 ```
 
